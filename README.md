@@ -14,7 +14,7 @@ Backend Engineer with 4 years of extensive experience in creating and managing s
 ## Skills
 
 - **Languages**: PHP, JavaScript, Java
-- **Frameworks**: Laravel
+- **Frameworks**: Laravel, Vue js, Tailwindcss, JQuery, Bootstrap
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Caching Systems**: Redis, Memcached
 - **Messaging Systems**: Kafka, RabbitMQ
