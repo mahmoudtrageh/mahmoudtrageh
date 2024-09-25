@@ -7,4 +7,4 @@ Proficient in PHP and Laravel, with a strong understanding of API design and dat
 
 - 📫 How to reach me 
   * geo.mahmoudtaha@gmail.com
-  * <a href="[#](https://www.linkedin.com/in/mahmoud-t-rageh/)">LinkedIn</a>
+  * <a href="https://www.linkedin.com/in/mahmoud-t-rageh/">LinkedIn</a>
