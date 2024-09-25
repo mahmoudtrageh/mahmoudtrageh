@@ -7,9 +7,9 @@ Proficient in PHP and Laravel, with a strong understanding of API design and dat
 - 👀 I’m interested in Prgramming, Reading.
 
 - SKILLS
-   ● Languages PHP, JavaScript, Java
-   ● Frameworks Laravel
-   ● Databases MySQL, Postgresql, MongoDB
+   ● Languages PHP, JavaScript, Java <br>
+   ● Frameworks Laravel  <br>
+   ● Databases MySQL, Postgresql, MongoDB  <br>
    ● Cashing Systems Redis, Memcached
    ● Messaging Systems Kafka, RabbitMQ
    ● Devops Docker, Kubernates, CI/CD tools
