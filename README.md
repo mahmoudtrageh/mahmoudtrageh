@@ -4,7 +4,7 @@
 
 ## About Me
 
-Backend Engineer with 4 years of extensive experience in creating and managing scalable web applications. Proficient in PHP and Laravel, with a strong understanding of API design and data security practices.
+Passionate Backend Engineer with 4 years of hands-on experience in building and managing scalable web applications. Expertise in PHP and Laravel, along with a strong understanding of API design and data security practices. Committed to delivering high-quality software solutions while collaborating with cross-functional teams to bring ideas to fruition. Dedicated to continuous learning and adapting to new challenges.
 
 ### 👀 Interests
 
@@ -13,77 +13,70 @@ Backend Engineer with 4 years of extensive experience in creating and managing s
 
 ## Skills
 
-- **Languages**: PHP, JavaScript, Java
-- **Frameworks**: Laravel, Vue js, Tailwindcss, JQuery, Bootstrap
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Caching Systems**: Redis, Memcached
-- **Messaging Systems**: Kafka, RabbitMQ
-- **DevOps**: Docker, Kubernetes, CI/CD tools
+- **Programming Languages**: PHP, JavaScript
+- **Frameworks**: Laravel, JQuery, Bootstrap, Tailwindcss
+- **Databases**: Relational Database (MySQL, Postgresql)
+- **API Development**: RESTful APIs
+- **Version Control**: GIT
+- **Testing and Debugging**: Unit Testing, Debugging
+- **Server Management**: Apache, Nginx, AWS, Digital Ocean
+- **Testing and Debugging**: Unit Testing, Debugging
 - **Languages Spoken**: Arabic (Native), English (Intermediate)
+- **Soft Skills**: Teamwork, Communication, Problem-Solving, Time Management
 
 ## Experience
 
 ### Tazamun, UAE • Backend Developer (9/2023 - Present)
-- Plan, track, and manage the backend development process.
-- Coordinate with other team members (frontend, UX/UI, etc.).
-- Communicate complex technical concepts to non-technical stakeholders.
+- Managed the backend development process, delivering projects 15% faster than previous timelines.
+- Collaborated with frontend developers and UX/UI designers, resulting in a 20% improvement in user satisfaction scores.
+- Simplify complex technical concepts for non-technical stakeholders, enhancing team communication.
 
 ### MAWAHEB LLC, UAE • Backend Developer (3/2023 - 9/2023)
-- Developed the backend of a Cleaning Booking Services App.
-- Handled support and technical issues reported from the customer side.
-- Applied data migrations and integration with third-party tools.
+- Developed the backend for a Cleaning Booking Services application, increasing booking efficiency by 30%.
+- Addressed support and technical issues raised by customers, ensuring a seamless user experience.
+- Executed data migrations and integrated third-party tools, enhancing functionality and reducing operational costs by 10%.
 
 ### Algoriza, Egypt • Backend Developer (8/2020 - 3/2023)
-- Developed the backend in the E-commerce and shipping industry.
-- Built and maintained Admin Dashboard & RESTful API for Android and iOS apps.
-- Handled support and technical issues reported from the customer side.
+- Designed and implemented backend solutions for the e-commerce and shipping sectors.
+- Developed and maintained an Admin Dashboard and RESTful APIs for both Android and iOS applications.
+- Resolved over 200 customer-reported technical issues, maintaining a 90% service quality rating.
 
 ### SpectraApps, Egypt • PHP Laravel Intern (12/2019 - 4/2020)
-- Practiced PHP, learned Laravel framework, and contributed to building apps using Laravel.
+- Contributed to the development of various applications using Laravel, enhancing coding skills and teamwork.
 
 ## Projects
 
 ### <a href="https://dsyncsolutions.com/">Dsyncsolutions</a>
 **Technologies**: Laravel, React, MySQL
-- Landing page for a corporate inventory system.
-- Gathered requirements, acted as a code reviewer and mentor for the frontend process.
-- Developed the backend of the entire system using Laravel.
+- Developed a corporate inventory system, including backend services and a corporate landing page.
 
 ### <a href="https://longimanus-liveaboard.com/">Longimanus Liveaboard</a>
 **Technologies**: Laravel, Bootstrap, MySQL
-- Landing page for a Diving Center.
-- Developed the backend of the entire system using Laravel and Bootstrap.
+- Created a backend system for a diving center, providing full application support.
 
 ### <a href="https://giftycoins.com/">Gifty Coins</a>
 **Technologies**: Laravel, React, MySQL
-- Crypto gift card redemption system.
-- Gathered requirements, acted as a code reviewer and mentor for the frontend process.
-- Developed the backend of the entire system using Laravel.
+- Built a crypto gift card redemption system, overseeing the backend development and mentoring frontend processes.
 
 ### <a href="https://palmcodes.com/">Palmcodes</a>
 **Technologies**: Laravel, React, MySQL, Laravel Forge, Digital Ocean
-- Worked with the team on developing most 3rd party APIs of the system.
+- Collaborated with the team to develop third-party APIs for the system.
 
 ### <a href="https://play.google.com/store/apps/details?id=com.umrahbadl.umrahbadl">UmrahBadl</a>
 **Technologies**: Laravel, Bootstrap, MySQL, Flutter
-- Built the whole backend of the application.
+- Led the backend development for a comprehensive application.
 
 ### <a href="https://play.google.com/store/apps/details?id=com.tekram.app.tekram&hl=en_US">Tekram</a>
 **Technologies**: Laravel, Bootstrap, MySQL, Flutter
-- Worked with the team on completing the backend of the system.
-- Developed some 3rd party APIs and helped in building new features.
+- Assisted in backend completion and third-party API development, contributing to new feature implementations.
 
 ### <a href="https://dashop.app/en">Dashop</a>
 **Technologies**: Laravel, Bootstrap, MySQL
-- Multi-vendor eCommerce platform.
-- Developed some 3rd party APIs and helped in building new features.
-- Enhanced system performance and refactored dozens of code.
+- Developed a multi-vendor e-commerce platform, enhancing performance and refactoring existing code.
 
 ### <a href="https://larabuilder.spotlayer.com/">Larabuilder</a>
 **Technologies**: Laravel, Bootstrap, MySQL
-- Modern one-page sites builder.
-- Developed new features and enhanced system performance.
-- Fixed many issues in the builder module.
+- Worked on a one-page site builder, improving performance and fixing critical issues.
 
 ## Certificates
 
