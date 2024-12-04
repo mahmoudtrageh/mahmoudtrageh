@@ -4,7 +4,7 @@
 
 ## About Me
 
-Passionate Backend Engineer with 4 years of hands-on experience in building and managing scalable web applications. Expertise in PHP and Laravel, along with a strong understanding of API design and data security practices. Committed to delivering high-quality software solutions while collaborating with cross-functional teams to bring ideas to fruition. Dedicated to continuous learning and adapting to new challenges.
+Passionate Backend Engineer with 5 years of hands-on experience in building and managing scalable web applications. Expertise in PHP and Laravel, along with a strong understanding of API design and data security practices. Committed to delivering high-quality software solutions while collaborating with cross-functional teams to bring ideas to fruition. Dedicated to continuous learning and adapting to new challenges.
 
 ### 👀 Interests
 
