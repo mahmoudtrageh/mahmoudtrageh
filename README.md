@@ -48,7 +48,7 @@ Passionate Backend Engineer with 5 years of hands-on experience in building and 
 
 ### <a href="https://qorive.com/">Qorive</a>
 **Technologies**: Laravel, Bootstrap, MySQL 
-• Engineered the core multi-tenant architecture implementing database-per-tenant pattern with 
+- Engineered the core multi-tenant architecture implementing database-per-tenant pattern with 
 shared application layer. 
 
 ### <a href="https://dsyncsolutions.com/">Dsyncsolutions</a>
