@@ -1,96 +1,88 @@
-# 👋 Hi, I’m Mahmoud Taha Rageh
+# Hi, I'm Mahmoud Taha 👋
 
-### 🌍 From Egypt
+**Backend Engineer | Laravel & PHP Specialist**
 
-## About Me
+Backend engineer with 5+ years building and scaling Laravel/PHP applications across e-commerce, SaaS, and multi-tenant platforms. Experienced across the full backend lifecycle — API design, database architecture, CI/CD, containerization, and cloud infrastructure — with a track record of shipping production systems for teams in Egypt and the UAE. Comfortable owning a system end-to-end, from server provisioning through deployment automation.
 
-Passionate Backend Engineer with 5 years of hands-on experience in building and managing scalable web applications. Expertise in PHP and Laravel, along with a strong understanding of API design and data security practices. Committed to delivering high-quality software solutions while collaborating with cross-functional teams to bring ideas to fruition. Dedicated to continuous learning and adapting to new challenges.
+📍 Tanta, Egypt
 
-### 👀 Interests
+---
 
-- Programming
-- Reading
+## 🛠️ Skills
 
-## Skills
+- **Languages:** PHP, JavaScript
+- **Frameworks:** Laravel, jQuery, Bootstrap, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL
+- **APIs:** RESTful API design & integration
+- **Infrastructure:** Docker, CI/CD, AWS, Jenkins, Nginx
+- **Monitoring:** Datadog
+- **AI Tooling:** Cursor, Claude Code, ChatGPT
+- **Practices:** Unit Testing, Debugging, Git
+- **Languages Spoken:** Arabic (Native), English (Professional Working Proficiency)
 
-- **Programming Languages**: PHP, JavaScript
-- **Frameworks**: Laravel, JQuery, Bootstrap, Tailwindcss
-- **Databases**: Relational Database (MySQL, Postgresql)
-- **API Development**: RESTful APIs
-- **Version Control**: GIT
-- **Testing and Debugging**: Unit Testing, Debugging
-- **Server Management**: Apache, Nginx, AWS, Digital Ocean
-- **Testing and Debugging**: Unit Testing, Debugging
-- **Languages Spoken**: Arabic (Native), English (Intermediate)
-- **Soft Skills**: Teamwork, Communication, Problem-Solving, Time Management
+---
 
-## Experience
+## 💼 Experience
 
-### Tazamun, UAE • Backend Developer (9/2023 - Present)
-- Managed the backend development process, delivering projects 15% faster than previous timelines.
-- Collaborated with frontend developers and UX/UI designers, resulting in a 20% improvement in user satisfaction scores.
-- Simplify complex technical concepts for non-technical stakeholders, enhancing team communication.
+**Senior Software Engineer** — Boxes Intelligent Communications, Egypt *(Feb 2026 – Present)*
+- Own backend architecture and delivery for a multi-tenant SaaS platform, including subdomain-based tenant routing, SSL/TLS management, and environment strategy across dev, staging, and production servers.
+- Design and maintain CI/CD pipelines and infrastructure-as-code practices for reliable, repeatable deployments across multiple cloud environments.
+- Partner closely with frontend and UX/UI teams to translate product requirements into scalable backend services and APIs.
+- Drive infrastructure cost optimization and server configuration reviews across production environments.
 
-### MAWAHEB LLC, UAE • Backend Developer (3/2023 - 9/2023)
-- Developed the backend for a Cleaning Booking Services application, increasing booking efficiency by 30%.
-- Addressed support and technical issues raised by customers, ensuring a seamless user experience.
-- Executed data migrations and integrated third-party tools, enhancing functionality and reducing operational costs by 10%.
+**Backend Engineer** — Tazamun, UAE *(Sept 2023 – May 2025)*
+- Led backend development for core product features, working directly with frontend engineers and designers.
+- Translated complex technical constraints into clear terms for non-technical stakeholders, improving cross-team alignment.
+- Built and maintained RESTful APIs and backend services supporting the platform's core business logic.
 
-### Algoriza, Egypt • Backend Developer (8/2020 - 3/2023)
-- Designed and implemented backend solutions for the e-commerce and shipping sectors.
-- Developed and maintained an Admin Dashboard and RESTful APIs for both Android and iOS applications.
-- Resolved over 200 customer-reported technical issues, maintaining a 90% service quality rating.
+**Backend Developer** — MAWAHEB LLC, UAE *(March 2023 – Sept 2023)*
+- Developed the backend for a cleaning booking services application, streamlining the scheduling workflow and eliminating manual booking steps.
+- Resolved customer-reported technical issues directly, ensuring a seamless end-user support experience.
+- Executed data migrations and integrated third-party tools, consolidating previously separate paid services into a single in-house solution.
 
-### SpectraApps, Egypt • PHP Laravel Intern (12/2019 - 4/2020)
-- Contributed to the development of various applications using Laravel, enhancing coding skills and teamwork.
+**Backend Developer** — Algoriza, Egypt *(August 2020 – March 2023)*
+- Designed and implemented backend solutions for e-commerce and shipping platforms serving both web and mobile clients.
+- Built and maintained an admin dashboard and RESTful APIs consumed by both Android and iOS applications.
+- Served as a primary point of resolution for customer-reported technical issues, maintaining consistent service quality across a high volume of support requests.
 
-## Projects
+**PHP Laravel Intern** — SpectraApps, Egypt *(December 2018 – April 2019)*
+- Contributed to Laravel application development, building foundational skills in backend engineering and team-based delivery.
 
-### <a href="https://qorive.com/">Qorive</a>
-**Technologies**: Laravel, Bootstrap, MySQL 
-- Engineered the core multi-tenant architecture implementing database-per-tenant pattern with 
-shared application layer. 
+---
 
-### <a href="https://dsyncsolutions.com/">Dsyncsolutions</a>
-**Technologies**: Laravel, React, MySQL
-- Developed a corporate inventory system, including backend services and a corporate landing page.
+## 🚀 Projects
 
-### <a href="https://longimanus-liveaboard.com/">Longimanus Liveaboard</a>
-**Technologies**: Laravel, Bootstrap, MySQL
-- Created a backend system for a diving center, providing full application support.
+| Project | Stack | Description |
+|---|---|---|
+| [Linkatik](https://linkatik.com/) | Laravel, Next.js, MySQL, Nginx, PM2 | Architected and manage the production infrastructure for a multi-site platform, including Nginx/PHP-FPM/PM2 configuration and SSL across multiple subdomains. |
+| [BoxesVDR](https://boxesvdr.com/index) | Laravel, Nginx, Huawei Cloud | Built the multi-tenant SaaS infrastructure powering subdomain-based tenant routing, SSL management, and environment strategy across dev, staging, and production. |
+| [ASP de Paris](https://aspparis.com/) | Laravel, cPanel, GitHub Actions | Developed and deployed a Laravel API with automated CI/CD via GitHub Actions to cPanel hosting. |
+| [PetroApp](https://petroapp.com/egypt/) | Laravel, Jenkins, ArgoCD, Docker, Datadog | Built a washing center management system backend with a 684+ test suite, and implemented CI/CD pipelines with Jenkins, ArgoCD, and Datadog APM monitoring. |
+| [Matx](https://matx-kappa.vercel.app/) | Laravel, Next.js, MySQL | Engineered a multi-vendor e-commerce platform with AI-powered features, including a 3D product model pipeline and a backend API layer consumed by a Next.js storefront and vendor dashboard. |
+| [UmrahBadl](https://play.google.com/store/apps/details?id=com.umrahbadl.umrahbadl) | Laravel, Bootstrap, MySQL, Flutter | Led backend development for a Hajj/Umrah travel application, integrating with a Flutter mobile client. |
 
-### <a href="https://giftycoins.com/">Gifty Coins</a>
-**Technologies**: Laravel, React, MySQL
-- Built a crypto gift card redemption system, overseeing the backend development and mentoring frontend processes.
+**Additional projects:** [Dsyncsolutions](https://dsyncsolutions.com/) (corporate inventory system) • [Longimanus Liveaboard](https://longimanus-liveaboard.com/) (diving center backend) • [Larabuilder](https://larabuilder.spotlayer.com/) (site builder performance work)
 
-### <a href="https://palmcodes.com/">Palmcodes</a>
-**Technologies**: Laravel, React, MySQL, Laravel Forge, Digital Ocean
-- Collaborated with the team to develop third-party APIs for the system.
+---
 
-### <a href="https://play.google.com/store/apps/details?id=com.umrahbadl.umrahbadl">UmrahBadl</a>
-**Technologies**: Laravel, Bootstrap, MySQL, Flutter
-- Led the backend development for a comprehensive application.
+## 🎓 Education
 
-### <a href="https://play.google.com/store/apps/details?id=com.tekram.app.tekram&hl=en_US">Tekram</a>
-**Technologies**: Laravel, Bootstrap, MySQL, Flutter
-- Assisted in backend completion and third-party API development, contributing to new feature implementations.
+**B.S. Geophysics** — Tanta University, Egypt *(2020)*
+*Self-directed transition into software engineering since 2018, backed by continuous professional certification in web development.*
 
-### <a href="https://dashop.app/en">Dashop</a>
-**Technologies**: Laravel, Bootstrap, MySQL
-- Developed a multi-vendor e-commerce platform, enhancing performance and refactoring existing code.
+---
 
-### <a href="https://larabuilder.spotlayer.com/">Larabuilder</a>
-**Technologies**: Laravel, Bootstrap, MySQL
-- Worked on a one-page site builder, improving performance and fixing critical issues.
+## 📜 Certificates
 
-## Certificates
+- Data Structures & Algorithms — Udemy (May 2025)
+- Programming Foundations: Algorithms — LinkedIn Learning (April 2022)
+- The Complete 2020 PHP Full Stack Web Developer Bootcamp — Udemy (August 2020)
+- Full Stack Web Development Diploma — Route (May 2018)
 
-- **Programming Foundations: Algorithms** - LinkedIn (4/2022)
-- **The Complete 2020 PHP Full Stack Web Developer Bootcamp** - Udemy (8/2020)
-- **Full Stack Web Development Diploma** - Route (5/2018)
+---
 
-## 📫 How to Reach Me
+## 📫 Contact
 
-- Phone: +201063993558
-- Email: geo.mahmoudtaha@gmail.com
-* <a href="https://www.linkedin.com/in/mahmoud-t-rageh/">LinkedIn</a>
+- Email: [geo.mahmoudtaha@gmail.com](mailto:geo.mahmoudtaha@gmail.com)
+- LinkedIn: [mahmoud-t-rageh](https://www.linkedin.com/in/mahmoud-t-rageh/)
+- Phone: +20 106 399 3558
